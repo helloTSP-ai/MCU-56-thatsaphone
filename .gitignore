@@ -1,0 +1,17 @@
+# Obsidian — machine-local UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Obsidian cache / trash
+.trash/
+.obsidian/cache/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor backups
+*.tmp
+*~

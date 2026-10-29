@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": []
+}
